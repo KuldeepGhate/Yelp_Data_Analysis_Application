@@ -1,1 +1,3 @@
+YELP'S DATA ANALYSIS APPLICATION 
+
 A standalone data analysis application that queries the dataset to extract useful information for local business and individual users. The primary users for this application are potential customers seeking business that match their search criteria. The Yelp data included around 45,000 businesses, 260,000 users and 1,200,000 reviews. The data is converted from JSON format and is stored into Oracle database. Users can filter the search results by state, city or zipcode. In addition, the user may choose to view only the businesses that are open or closed on certain days of the week. The application also allows users to view and rate the reviews provided for each business. 
